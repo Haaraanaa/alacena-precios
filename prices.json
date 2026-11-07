@@ -1,0 +1,1837 @@
+{
+ "updatedAt": "2026-11-07",
+ "web": {
+  "mercadona": {
+   "cebolla": {
+    "product": "Cebollas",
+    "price": 3,
+    "pack": 2000,
+    "url": "https://tienda.mercadona.es/product/69079/cebollas-malla",
+    "seen": "2026-11-07"
+   },
+   "tomate": {
+    "product": "Tomates pera",
+    "price": 2.42,
+    "pack": 1050,
+    "url": "https://tienda.mercadona.es/product/69975/tomates-pera-bandeja",
+    "seen": "2026-11-07"
+   },
+   "pimiento_rojo": {
+    "product": "Pimiento rojo",
+    "price": 0.87,
+    "pack": 300,
+    "url": "https://tienda.mercadona.es/product/69310/pimiento-rojo-pieza",
+    "seen": "2026-11-07"
+   },
+   "pimiento_verde": {
+    "product": "Pimiento verde freír",
+    "price": 0.23,
+    "pack": 90,
+    "url": "https://tienda.mercadona.es/product/69320/pimiento-verde-freir-pieza",
+    "seen": "2026-11-07"
+   },
+   "calabacin": {
+    "product": "Calabacín verde",
+    "price": 0.56,
+    "pack": 400,
+    "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza",
+    "seen": "2026-11-07"
+   },
+   "zanahoria": {
+    "product": "Zanahorias",
+    "price": 1.2,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/69586/zanahorias-paquete",
+    "seen": "2026-11-07"
+   },
+   "patata": {
+    "product": "Patatas",
+    "price": 5,
+    "pack": 5000,
+    "url": "https://tienda.mercadona.es/product/69099/patatas-malla",
+    "seen": "2026-11-07"
+   },
+   "lechuga": {
+    "product": "Ensalada mezcla 4 estaciones lavada",
+    "price": 0.85,
+    "pack": 250,
+    "url": "https://tienda.mercadona.es/product/69706/ensalada-mezcla-4-estaciones-compuesta-lechuga-iceberg-zanahoria-col-lombarda-paquete",
+    "seen": "2026-11-07"
+   },
+   "espinacas": {
+    "product": "Espinacas cortadas y lavadas",
+    "price": 1.3,
+    "pack": 300,
+    "url": "https://tienda.mercadona.es/product/69730/espinacas-cortadas-paquete",
+    "seen": "2026-11-07"
+   },
+   "brocoli": {
+    "product": "Brócoli",
+    "price": 1.32,
+    "pack": 490,
+    "url": "https://tienda.mercadona.es/product/69580/brocoli-pieza",
+    "seen": "2026-11-07"
+   },
+   "champinon": {
+    "product": "Champiñones laminados Hacendado",
+    "price": 1,
+    "pack": 355,
+    "url": "https://tienda.mercadona.es/product/16618/champinones-laminados-hacendado-bote",
+    "seen": "2026-11-07"
+   },
+   "limon": {
+    "product": "Limones",
+    "price": 2.3,
+    "pack": 7.7,
+    "url": "https://tienda.mercadona.es/product/3236/limones-malla",
+    "seen": "2026-11-07"
+   },
+   "aguacate": {
+    "product": "Aguacates",
+    "price": 3.87,
+    "pack": 3.7,
+    "url": "https://tienda.mercadona.es/product/3858/aguacates-bandeja",
+    "seen": "2026-11-07"
+   },
+   "berenjena": {
+    "product": "Berenjena",
+    "price": 0.9,
+    "pack": 410,
+    "url": "https://tienda.mercadona.es/product/69326/berenjena-pieza",
+    "seen": "2026-11-07"
+   },
+   "pepino": {
+    "product": "Pepino",
+    "price": 0.39,
+    "pack": 210,
+    "url": "https://tienda.mercadona.es/product/69584/pepino-pieza",
+    "seen": "2026-11-07"
+   },
+   "coliflor": {
+    "product": "Coliflor",
+    "price": 1.92,
+    "pack": 1130,
+    "url": "https://tienda.mercadona.es/product/69220/coliflor-pieza",
+    "seen": "2026-11-07"
+   },
+   "puerro": {
+    "product": "Puerros",
+    "price": 2.16,
+    "pack": 450,
+    "url": "https://tienda.mercadona.es/product/68408/puerros-bandeja",
+    "seen": "2026-11-07"
+   },
+   "esparragos": {
+    "product": "Espárragos verdes finos",
+    "price": 4,
+    "pack": 250,
+    "url": "https://tienda.mercadona.es/product/69656/esparrago-verde-fino-paquete",
+    "seen": "2026-11-07"
+   },
+   "calabaza": {
+    "product": "Calabaza cacahuete cortada a trozos",
+    "price": 2.24,
+    "pack": 560,
+    "url": "https://tienda.mercadona.es/product/3527/calabaza-cacahuete-cortada-trozos-bandeja",
+    "seen": "2026-11-07"
+   },
+   "boniato": {
+    "product": "Batata",
+    "price": 1.02,
+    "pack": 400,
+    "url": "https://tienda.mercadona.es/product/69239/batata-pieza",
+    "seen": "2026-11-07"
+   },
+   "setas": {
+    "product": "Setas",
+    "price": 2.09,
+    "pack": 250,
+    "url": "https://tienda.mercadona.es/product/69653/seta-bandeja",
+    "seen": "2026-11-07"
+   },
+   "platano": {
+    "product": "Banana",
+    "price": 0.28,
+    "pack": 1.2,
+    "url": "https://tienda.mercadona.es/product/3824/banana-pieza",
+    "seen": "2026-11-07"
+   },
+   "pechuga_pollo": {
+    "product": "Filetes pechuga de pollo",
+    "price": 4.31,
+    "pack": 560,
+    "url": "https://tienda.mercadona.es/product/2787/filetes-pechuga-pollo-bandeja",
+    "seen": "2026-11-07"
+   },
+   "muslo_pollo": {
+    "product": "Contramuslos de pollo sin piel",
+    "price": 3.4,
+    "pack": 810,
+    "url": "https://tienda.mercadona.es/product/2777/contramuslos-pollo-sin-piel-bandeja",
+    "seen": "2026-11-07"
+   },
+   "pechuga_pavo": {
+    "product": "Filetes pechuga de pavo",
+    "price": 5.16,
+    "pack": 590,
+    "url": "https://tienda.mercadona.es/product/2794/filetes-pechuga-pavo-bandeja",
+    "seen": "2026-11-07"
+   },
+   "carne_picada": {
+    "product": "Preparado de carne picada vacuno y cerdo",
+    "price": 8,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/3453/preparado-carne-picada-vacuno-cerdo-bandeja",
+    "seen": "2026-11-07"
+   },
+   "lomo_cerdo": {
+    "product": "Lomo de cerdo trozo",
+    "price": 4.36,
+    "pack": 970,
+    "url": "https://tienda.mercadona.es/product/4590/lomo-cerdo-trozo-pieza",
+    "seen": "2026-11-07"
+   },
+   "salmon": {
+    "product": "Lomos de salmón sin piel Hacendado congelado",
+    "price": 5.95,
+    "pack": 250,
+    "url": "https://tienda.mercadona.es/product/24511/lomos-salmon-sin-piel-sin-espinas-hacendado-congelado-paquete",
+    "seen": "2026-11-07"
+   },
+   "merluza_cong": {
+    "product": "Lomos y centros de merluza del Cabo Hacendado ultracongelados",
+    "price": 4.9,
+    "pack": 400,
+    "url": "https://tienda.mercadona.es/product/62113/lomos-centros-merluza-cabo-hacendado-ultracongelados-caja",
+    "seen": "2026-11-07"
+   },
+   "bacalao_cong": {
+    "product": "Bacalao al punto de sal descongelado",
+    "price": 9.5,
+    "pack": 450,
+    "url": "https://tienda.mercadona.es/product/87211/bacalao-punto-sal-descongelado-con-agua-anadida-bandeja",
+    "seen": "2026-11-07"
+   },
+   "mejillon_cong": {
+    "product": "Mejillón de Chile entero cocido Hacendado ultracongelado",
+    "price": 3.25,
+    "pack": 450,
+    "url": "https://tienda.mercadona.es/product/62401/mejillon-chile-entero-cocido-hacendado-ultracongelado-caja",
+    "seen": "2026-11-07"
+   },
+   "calamar_cong": {
+    "product": "Sepia limpia",
+    "price": 9.27,
+    "pack": 620,
+    "url": "https://tienda.mercadona.es/product/81704/sepia-pieza",
+    "seen": "2026-11-07"
+   },
+   "jamon_york": {
+    "product": "Jamón cocido sándwich Hacendado lonchas",
+    "price": 1.95,
+    "pack": 250,
+    "url": "https://tienda.mercadona.es/product/13988/jamon-cocido-sandwich-hacendado-lonchas-paquete",
+    "seen": "2026-11-07"
+   },
+   "bacon": {
+    "product": "Bacón Hacendado cintas",
+    "price": 1.95,
+    "pack": 260,
+    "url": "https://tienda.mercadona.es/product/16252/bacon-hacendado-cintas",
+    "seen": "2026-11-07"
+   },
+   "jamon_serrano": {
+    "product": "Pasta fresca ravioli Fryer Carne rellena de cerdo estofado y jamón curado Hacendado",
+    "price": 1.85,
+    "pack": 200,
+    "url": "https://tienda.mercadona.es/product/18446/pasta-fresca-ravioli-fryer-carne-rellena-cerdo-estofado-jamon-curado-hacendado-bandeja",
+    "seen": "2026-11-07"
+   },
+   "chorizo": {
+    "product": "Chorizo picante extra Hacendado",
+    "price": 2.49,
+    "pack": 280,
+    "url": "https://tienda.mercadona.es/product/54210/chorizo-picante-extra-hacendado-pieza",
+    "seen": "2026-11-07"
+   },
+   "salchichas": {
+    "product": "Salchichas cocidas Hacendado de pollo y pavo sabor ahumado",
+    "price": 1.5,
+    "pack": 400,
+    "url": "https://tienda.mercadona.es/product/53056/salchichas-cocidas-hacendado-pollo-pavo-sabor-ahumado-pack-2",
+    "seen": "2026-11-07"
+   },
+   "hamburguesa": {
+    "product": "Burger de vacuno",
+    "price": 5.9,
+    "pack": 6,
+    "url": "https://tienda.mercadona.es/product/2873/burger-vacuno-bandeja",
+    "seen": "2026-11-07"
+   },
+   "huevo": {
+    "product": "Huevos medianos M",
+    "price": 2.85,
+    "pack": 12,
+    "url": "https://tienda.mercadona.es/product/31505/huevos-medianos-m-paquete",
+    "seen": "2026-11-07"
+   },
+   "leche": {
+    "product": "Leche semidesnatada Hacendado",
+    "price": 0.83,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/10382/leche-semidesnatada-hacendado-brick",
+    "seen": "2026-11-07"
+   },
+   "yogur_griego": {
+    "product": "Yogur griego natural Hacendado",
+    "price": 1.45,
+    "pack": 6,
+    "url": "https://tienda.mercadona.es/product/20559/yogur-griego-natural-hacendado-pack-6",
+    "seen": "2026-11-07"
+   },
+   "queso_rallado": {
+    "product": "Queso rallado especial fundir mezcla Hacendado",
+    "price": 1.9,
+    "pack": 400,
+    "url": "https://tienda.mercadona.es/product/23622/queso-rallado-especial-fundir-mezcla-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "mozzarella": {
+    "product": "Queso rallado mozzarella pizza-Roma de vaca Hacendado",
+    "price": 1.6,
+    "pack": 200,
+    "url": "https://tienda.mercadona.es/product/51110/queso-rallado-mozzarella-pizza-roma-vaca-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "queso_lonchas": {
+    "product": "Queso lonchas gouda de vaca Hacendado",
+    "price": 1.95,
+    "pack": 300,
+    "url": "https://tienda.mercadona.es/product/50654/queso-lonchas-gouda-vaca-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "queso_fresco": {
+    "product": "Queso fresco batido desnatado 0% MG Hacendado",
+    "price": 1.1,
+    "pack": 500,
+    "url": "https://tienda.mercadona.es/product/51071/queso-fresco-batido-desnatado-0-mg-hacendado-tarrina",
+    "seen": "2026-11-07"
+   },
+   "queso_cabra": {
+    "product": "Queso rulo de cabra Hacendado",
+    "price": 2.65,
+    "pack": 200,
+    "url": "https://tienda.mercadona.es/product/50021/queso-rulo-cabra-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "nata_cocinar": {
+    "product": "Nata fresca para cocinar Hacendado",
+    "price": 1.3,
+    "pack": 197,
+    "url": "https://tienda.mercadona.es/product/10117/nata-fresca-cocinar-hacendado-tarrina",
+    "seen": "2026-11-07"
+   },
+   "arroz": {
+    "product": "Arroz redondo Hacendado",
+    "price": 1.15,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/5044/arroz-redondo-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "arroz_basmati": {
+    "product": "Arroz basmati aromático Hacendado",
+    "price": 2.1,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/5002/arroz-basmati-aromatico-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "pasta": {
+    "product": "Macarrón Hacendado",
+    "price": 1.2,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/6250/macarron-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "lentejas": {
+    "product": "Lenteja cocida Hacendado",
+    "price": 0.9,
+    "pack": 570,
+    "url": "https://tienda.mercadona.es/product/26030/lenteja-cocida-hacendado-tarro",
+    "seen": "2026-11-07"
+   },
+   "garbanzos": {
+    "product": "Garbanzo cocido Hacendado",
+    "price": 0.8,
+    "pack": 570,
+    "url": "https://tienda.mercadona.es/product/26029/garbanzo-cocido-hacendado-tarro",
+    "seen": "2026-11-07"
+   },
+   "alubias": {
+    "product": "Alubia cocida blanca Hacendado",
+    "price": 0.75,
+    "pack": 570,
+    "url": "https://tienda.mercadona.es/product/26019/alubia-cocida-blanca-hacendado-tarro",
+    "seen": "2026-11-07"
+   },
+   "tomate_triturado": {
+    "product": "Tomate triturado Hacendado",
+    "price": 1,
+    "pack": 800,
+    "url": "https://tienda.mercadona.es/product/16043/tomate-triturado-hacendado-freir-bote",
+    "seen": "2026-11-07"
+   },
+   "tomate_frito": {
+    "product": "Tomate frito Hacendado",
+    "price": 0.95,
+    "pack": 630,
+    "url": "https://tienda.mercadona.es/product/17151/tomate-frito-hacendado-pack-3",
+    "seen": "2026-11-07"
+   },
+   "atun": {
+    "product": "Atún claro en aceite de girasol Hacendado",
+    "price": 2.7,
+    "pack": 240,
+    "url": "https://tienda.mercadona.es/product/18092/atun-claro-aceite-girasol-hacendado-pack-3",
+    "seen": "2026-11-07"
+   },
+   "sardinas": {
+    "product": "Sardinas en aceite de oliva Hacendado",
+    "price": 2.25,
+    "pack": 234,
+    "url": "https://tienda.mercadona.es/product/18225/sardinas-aceite-oliva-hacendado-pack-2",
+    "seen": "2026-11-07"
+   },
+   "piquillos": {
+    "product": "Pimientos del piquillo enteros Hacendado extra",
+    "price": 1.45,
+    "pack": 340,
+    "url": "https://tienda.mercadona.es/product/16005/pimientos-piquillo-enteros-hacendado-extra-tarro",
+    "seen": "2026-11-07"
+   },
+   "maiz": {
+    "product": "Maíz dulce Hacendado",
+    "price": 1.55,
+    "pack": 450,
+    "url": "https://tienda.mercadona.es/product/16712/maiz-dulce-hacendado-pack-3",
+    "seen": "2026-11-07"
+   },
+   "caldo_pollo": {
+    "product": "Caldo de pollo Hacendado",
+    "price": 0.75,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/7313/caldo-pollo-hacendado-brick",
+    "seen": "2026-11-07"
+   },
+   "harina": {
+    "product": "Harina de trigo Hacendado",
+    "price": 0.72,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/29100/harina-trigo-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "cuscus": {
+    "product": "Cous cous mediano Hacendado",
+    "price": 1.95,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/9395/cous-cous-mediano-bia-caja",
+    "seen": "2026-11-07"
+   },
+   "pan_rallado": {
+    "product": "Pan rallado Hacendado",
+    "price": 0.85,
+    "pack": 750,
+    "url": "https://tienda.mercadona.es/product/82219/pan-rallado-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "tortilla_trigo": {
+    "product": "Tortillas de trigo Hacendado",
+    "price": 1.15,
+    "pack": 10,
+    "url": "https://tienda.mercadona.es/product/80859/tortillas-trigo-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "masa_pizza": {
+    "product": "Masa pizza fresca familiar Hacendado",
+    "price": 1.5,
+    "pack": 1.5,
+    "url": "https://tienda.mercadona.es/product/52454/masa-pizza-fresca-familiar-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "pan_hamburguesa": {
+    "product": "Pan de burger Hacendado Rústico",
+    "price": 0.95,
+    "pack": 4,
+    "url": "https://tienda.mercadona.es/product/17665/pan-burger-hacendado-rustico-paquete",
+    "seen": "2026-11-07"
+   },
+   "pan_molde": {
+    "product": "Pan de molde 100% integral familiar Hacendado",
+    "price": 1.15,
+    "pack": 820,
+    "url": "https://tienda.mercadona.es/product/83886/pan-molde-100-integral-familiar-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "patatas_cong": {
+    "product": "Patatas prefritas corte grueso Hacendado ultracongeladas",
+    "price": 3,
+    "pack": 2000,
+    "url": "https://tienda.mercadona.es/product/61405/patatas-prefritas-corte-grueso-hacendado-ultracongeladas-paquete",
+    "seen": "2026-11-07"
+   },
+   "guisantes_cong": {
+    "product": "Guisante fino Hacendado ultracongelado",
+    "price": 1.55,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/61215/guisante-fino-hacendado-ultracongelado-paquete",
+    "seen": "2026-11-07"
+   },
+   "judias_verdes_cong": {
+    "product": "Judía verde plana Hacendado ultracongelada",
+    "price": 1.3,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/61283/judia-verde-plana-hacendado-ultracongelada-paquete",
+    "seen": "2026-11-07"
+   },
+   "salteado_verduras_cong": {
+    "product": "Menestra de verduras Hacendado ultracongelada",
+    "price": 1.75,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/52534/menestra-verduras-hacendado-ultracongelada-paquete",
+    "seen": "2026-11-07"
+   },
+   "aceite_oliva": {
+    "product": "Aceite de oliva 1º Hacendado",
+    "price": 3.8,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/4640/aceite-oliva-1o-hacendado-botella",
+    "seen": "2026-11-07"
+   },
+   "vinagre": {
+    "product": "Vinagre de vino blanco Hacendado",
+    "price": 0.65,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/4940/vinagre-vino-blanco-hacendado-botella",
+    "seen": "2026-11-07"
+   },
+   "sal": {
+    "product": "Sal fina Hacendado",
+    "price": 0.4,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/19731/sal-fina-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "pimienta": {
+    "product": "Pimienta negra molida Hacendado",
+    "price": 1.3,
+    "pack": 70,
+    "url": "https://tienda.mercadona.es/product/34171/pimienta-negra-molida-hacendado-bote",
+    "seen": "2026-11-07"
+   },
+   "pimenton": {
+    "product": "Pimentón dulce Hacendado",
+    "price": 1.3,
+    "pack": 75,
+    "url": "https://tienda.mercadona.es/product/60573/pimenton-dulce-hacendado-bote",
+    "seen": "2026-11-07"
+   },
+   "oregano": {
+    "product": "Orégano Hacendado",
+    "price": 1,
+    "pack": 25,
+    "url": "https://tienda.mercadona.es/product/5598/oregano-hacendado-bote",
+    "seen": "2026-11-07"
+   },
+   "comino": {
+    "product": "Comino molido Hacendado",
+    "price": 1.15,
+    "pack": 58,
+    "url": "https://tienda.mercadona.es/product/34120/comino-molido-hacendado-bote",
+    "seen": "2026-11-07"
+   },
+   "curry": {
+    "product": "Curry Hacendado",
+    "price": 1.1,
+    "pack": 57,
+    "url": "https://tienda.mercadona.es/product/34125/curry-hacendado-bote",
+    "seen": "2026-11-07"
+   },
+   "salsa_soja": {
+    "product": "Salsa de Soja Hacendado",
+    "price": 1.2,
+    "pack": 250,
+    "url": "https://tienda.mercadona.es/product/17360/salsa-soja-hacendado-botella",
+    "seen": "2026-11-07"
+   },
+   "mayonesa": {
+    "product": "Mayonesa Hacendado",
+    "price": 1.2,
+    "pack": 500,
+    "url": "https://tienda.mercadona.es/product/13406/mayonesa-hacendado-tarro",
+    "seen": "2026-11-07"
+   },
+   "ketchup": {
+    "product": "Ketchup Hacendado",
+    "price": 1.05,
+    "pack": 600,
+    "url": "https://tienda.mercadona.es/product/23579/ketchup-hacendado-bote",
+    "seen": "2026-11-07"
+   },
+   "claras_huevo": {
+    "product": "Claras de huevo líquidas pasteurizadas",
+    "price": 2.75,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/31312/claras-huevo-liquidas-pasteurizadas-botella",
+    "seen": "2026-11-07"
+   },
+   "tofu": {
+    "product": "Tofu firme Hacendado",
+    "price": 1.75,
+    "pack": 400,
+    "url": "https://tienda.mercadona.es/product/51097/tofu-firme-frias-paquete",
+    "seen": "2026-11-07"
+   },
+   "requeson": {
+    "product": "Requesón mezcla Hacendado",
+    "price": 1,
+    "pack": 200,
+    "url": "https://tienda.mercadona.es/product/51012/requeson-mezcla-montesinos-tarrina",
+    "seen": "2026-11-07"
+   },
+   "bebida_soja": {
+    "product": "Bebida de soja con calcio y vitaminas sin azúcares añadidos Hacendado",
+    "price": 0.65,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/14707/bebida-soja-con-calcio-vitaminas-sin-azucares-anadidos-hacendado-brick",
+    "seen": "2026-11-07"
+   },
+   "fiambre_pavo": {
+    "product": "Pechuga de pavo reducido en sal Hacendado finas lonchas",
+    "price": 3.95,
+    "pack": 400,
+    "url": "https://tienda.mercadona.es/product/86786/pechuga-pavo-bajo-sal-hacendado-finas-lonchas-pack-2",
+    "seen": "2026-11-07"
+   },
+   "atun_natural": {
+    "product": "Atún listado al natural Hacendado",
+    "price": 3,
+    "pack": 385,
+    "url": "https://tienda.mercadona.es/product/12911/atun-listado-natural-hacendado-lata",
+    "seen": "2026-11-07"
+   },
+   "quinoa": {
+    "product": "Quinoa Hacendado",
+    "price": 2.65,
+    "pack": 500,
+    "url": "https://tienda.mercadona.es/product/9430/quinoa-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "arroz_integral": {
+    "product": "Arroz integral largo Hacendado",
+    "price": 1.65,
+    "pack": 1000,
+    "url": "https://tienda.mercadona.es/product/5184/arroz-integral-largo-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "pasta_integral": {
+    "product": "Macarrón rayado integral Hacendado",
+    "price": 1.2,
+    "pack": 500,
+    "url": "https://tienda.mercadona.es/product/35777/pasta-penne-integral-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "almendras": {
+    "product": "Almendras rellenas de turrón Hacendado",
+    "price": 2.75,
+    "pack": 150,
+    "url": "https://tienda.mercadona.es/product/36421/almendras-rellenas-turron-hacendado-paquete",
+    "seen": "2026-11-07"
+   },
+   "arandanos": {
+    "product": "Arándanos",
+    "price": 3.35,
+    "pack": 225,
+    "url": "https://tienda.mercadona.es/product/5501/arandanos-vaso",
+    "seen": "2026-11-07"
+   },
+   "rucula": {
+    "product": "Rúcula lavada",
+    "price": 0.85,
+    "pack": 50,
+    "url": "https://tienda.mercadona.es/product/69753/rucula-paquete",
+    "seen": "2026-11-07"
+   },
+   "mango": {
+    "product": "Mango",
+    "price": 1.45,
+    "pack": 1.7,
+    "url": "https://tienda.mercadona.es/product/3050/mango-pieza",
+    "seen": "2026-11-07"
+   },
+   "pina": {
+    "product": "Piña",
+    "price": 3.64,
+    "pack": 2,
+    "url": "https://tienda.mercadona.es/product/3076/pina-pieza",
+    "seen": "2026-11-07"
+   },
+   "canela": {
+    "product": "Canela molida Hacendado",
+    "price": 1,
+    "pack": 52,
+    "url": "https://tienda.mercadona.es/product/34177/canela-molida-hacendado-bote",
+    "seen": "2026-11-07"
+   }
+  },
+  "lidl": {},
+  "eroski": {
+   "cebolla": {
+    "product": "Cebolla blanca EROSKI, malla 2 kg",
+    "price": 3,
+    "pack": 2000,
+    "url": "https://supermercado.eroski.es/es/productdetail/12008496-cebolla-blanca-eroski-malla-2-kg/",
+    "seen": "2026-11-07"
+   },
+   "ajo": {
+    "product": "Ajo blanco EROSKI, malla 400 g",
+    "price": 2.98,
+    "pack": 400,
+    "url": "https://supermercado.eroski.es/es/productdetail/15380470-ajo-blanco-eroski-malla-400-g/",
+    "seen": "2026-11-07"
+   },
+   "tomate": {
+    "product": "Tomate de Pera, al peso, compra mínima 500 g",
+    "price": 1.1,
+    "pack": 500,
+    "url": "https://supermercado.eroski.es/es/productdetail/63016-tomate-de-pera-al-peso-compra-minima-500-g/",
+    "seen": "2026-11-07"
+   },
+   "pimiento_rojo": {
+    "product": "Pimiento rojo, al peso, compra mínima 500 g",
+    "price": 1.45,
+    "pack": 500,
+    "url": "https://supermercado.eroski.es/es/productdetail/24993636-pimiento-rojo-al-peso-compra-minima-500-g/",
+    "seen": "2026-11-07"
+   },
+   "pimiento_verde": {
+    "product": "Pimiento verde italiano, al peso, compra mínima 500 g",
+    "price": 1.25,
+    "pack": 500,
+    "url": "https://supermercado.eroski.es/es/productdetail/1867-pimiento-verde-italiano-al-peso-compra-minima-500-g/",
+    "seen": "2026-11-07"
+   },
+   "calabacin": {
+    "product": "Calabacín verde, al peso, compra mínima 500 g",
+    "price": 0.95,
+    "pack": 500,
+    "url": "https://supermercado.eroski.es/es/productdetail/26794016-calabacin-verde-al-peso-compra-minima-500-g/",
+    "seen": "2026-11-07"
+   },
+   "zanahoria": {
+    "product": "Zanahoria EROSKI, bolsa 1 kg",
+    "price": 1.2,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/4501508-zanahoria-eroski-bolsa-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "patata": {
+    "product": "Patata EUSKAL BASERRI, malla 5 kg",
+    "price": 6.59,
+    "pack": 5000,
+    "url": "https://supermercado.eroski.es/es/productdetail/15588502-patata-euskal-baserri-malla-5-kg/",
+    "seen": "2026-11-07"
+   },
+   "lechuga": {
+    "product": "Ensalada 4 estaciones Maxi EROSKI, bolsa 450 g",
+    "price": 1.5,
+    "pack": 450,
+    "url": "https://supermercado.eroski.es/es/productdetail/18298042-ensalada-4-estaciones-maxi-eroski-bolsa-450-g/",
+    "seen": "2026-11-07"
+   },
+   "espinacas": {
+    "product": "Espinaca EROSKI, bolsa 300 g",
+    "price": 1.3,
+    "pack": 300,
+    "url": "https://supermercado.eroski.es/es/productdetail/18298018-espinaca-eroski-bolsa-300-g/",
+    "seen": "2026-11-07"
+   },
+   "brocoli": {
+    "product": "Brocoli EROSKI, bolsa 1 kg",
+    "price": 1.8,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/25904806-brocoli-eroski-bolsa-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "champinon": {
+    "product": "Champiñón laminado EROSKI, bandeja 250 g",
+    "price": 2.11,
+    "pack": 250,
+    "url": "https://supermercado.eroski.es/es/productdetail/1404-champinon-laminado-eroski-bandeja-250-g/",
+    "seen": "2026-11-07"
+   },
+   "limon": {
+    "product": "Limón, malla 1 kg",
+    "price": 2.3,
+    "pack": 7.7,
+    "url": "https://supermercado.eroski.es/es/productdetail/10935534-limon-malla-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "aguacate": {
+    "product": "Aguacate EROSKI, bandeja al peso aprox. 750 g",
+    "price": 3.98,
+    "pack": 3.8,
+    "url": "https://supermercado.eroski.es/es/productdetail/27349778-aguacate-eroski-bandeja-al-peso-aprox-750-g/",
+    "seen": "2026-11-07"
+   },
+   "berenjena": {
+    "product": "Berenjena negra, al peso, compra mínima 500 g",
+    "price": 1.2,
+    "pack": 500,
+    "url": "https://supermercado.eroski.es/es/productdetail/26793992-berenjena-negra-al-peso-compra-minima-500-g/",
+    "seen": "2026-11-07"
+   },
+   "coliflor": {
+    "product": "Coliflor EROSKI, bolsa 1 kg",
+    "price": 2.29,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/25904830-coliflor-eroski-bolsa-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "puerro": {
+    "product": "Puerro limpio EROSKI, bandeja aprox. 500 g",
+    "price": 2.75,
+    "pack": 500,
+    "url": "https://supermercado.eroski.es/es/productdetail/27535863-puerro-limpio-eroski-bandeja-aprox-500-g/",
+    "seen": "2026-11-07"
+   },
+   "esparragos": {
+    "product": "Espárrago verde fino, manojo 250 g",
+    "price": 2.95,
+    "pack": 250,
+    "url": "https://supermercado.eroski.es/es/productdetail/8521759-esparrago-verde-fino-manojo-250-g/",
+    "seen": "2026-11-07"
+   },
+   "calabaza": {
+    "product": "Calabaza limpia en trozos EROSKI, bolsa 750 g",
+    "price": 2.65,
+    "pack": 750,
+    "url": "https://supermercado.eroski.es/es/productdetail/23689490-calabaza-limpia-en-trozos-eroski-bolsa-750-g/",
+    "seen": "2026-11-07"
+   },
+   "boniato": {
+    "product": "Boniato, al peso, compra mínima 1 kg",
+    "price": 2.55,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/179481-boniato-al-peso-compra-minima-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "setas": {
+    "product": "Setas mezcla EROSKI, bolsa 450 g",
+    "price": 1.61,
+    "pack": 450,
+    "url": "https://supermercado.eroski.es/es/productdetail/12264644-setas-mezcla-eroski-bolsa-450-g/",
+    "seen": "2026-11-07"
+   },
+   "platano": {
+    "product": "Plátano de Canarias IGP EROSKI, al peso, compra mínima 1 kg",
+    "price": 3.2,
+    "pack": 6.7,
+    "url": "https://supermercado.eroski.es/es/productdetail/12069175-platano-de-canarias-igp-eroski-al-peso-compra-minima-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "pechuga_pollo": {
+    "product": "Pechuga fileteada extrafina pollo EROSKI, bandeja al peso aprox. 520 g",
+    "price": 4.41,
+    "pack": 520,
+    "url": "https://supermercado.eroski.es/es/productdetail/9202094-pechuga-fileteada-extrafina-pollo-eroski-bandeja-al-peso-aprox-520-g/",
+    "seen": "2026-11-07"
+   },
+   "muslo_pollo": {
+    "product": "Contramuslos de pollo sin piel EROSKI, bandeja aprox. 1 kg",
+    "price": 3.55,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/25851973-contramuslos-de-pollo-sin-piel-eroski-bandeja-aprox-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "pechuga_pavo": {
+    "product": "Filete de pechuga de pavo EROSKI, bandeja al peso aprox. 550 g",
+    "price": 4.65,
+    "pack": 550,
+    "url": "https://supermercado.eroski.es/es/productdetail/5848916-filete-de-pechuga-de-pavo-eroski-bandeja-al-peso-aprox-550-g/",
+    "seen": "2026-11-07"
+   },
+   "carne_picada": {
+    "product": "Picada mixta cerdo-vacuno burger meat XXL EROSKI, bandeja 1 kg",
+    "price": 7.99,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/18960674-picada-mixta-cerdo-vacuno-burger-meat-xxl-eroski-bandeja-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "lomo_cerdo": {
+    "product": "Chuleta de lomo de cerdo, bandeja aprox. 800 g",
+    "price": 5.52,
+    "pack": 800,
+    "url": "https://supermercado.eroski.es/es/productdetail/18699249-chuleta-de-lomo-de-cerdo-bandeja-aprox-800-g/",
+    "seen": "2026-11-07"
+   },
+   "merluza_cong": {
+    "product": "Medallones de merluza Argentina EROSKI, bolsa 450 g",
+    "price": 3.99,
+    "pack": 450,
+    "url": "https://supermercado.eroski.es/es/productdetail/26606608-medallones-de-merluza-argentina-eroski-bolsa-450-g/",
+    "seen": "2026-11-07"
+   },
+   "gambas_cong": {
+    "product": "Gamba pelada grande 60/80 EROSKI, bolsa 360 g",
+    "price": 5.95,
+    "pack": 360,
+    "url": "https://supermercado.eroski.es/es/productdetail/15226376-gamba-pelada-grande-6080-eroski-bolsa-360-g/",
+    "seen": "2026-11-07"
+   },
+   "bacalao_cong": {
+    "product": "Bacalao desalado menú EROSKI, bandeja 700 g",
+    "price": 23.29,
+    "pack": 700,
+    "url": "https://supermercado.eroski.es/es/productdetail/18613166-bacalao-desalado-menu-eroski-bandeja-700-g/",
+    "seen": "2026-11-07"
+   },
+   "mejillon_cong": {
+    "product": "Mejillón cocido al albariño AGUINAMAR, bandeja 500 g",
+    "price": 4.75,
+    "pack": 500,
+    "url": "https://supermercado.eroski.es/es/productdetail/24582090-mejillon-cocido-al-albarino-aguinamar-bandeja-500-g/",
+    "seen": "2026-11-07"
+   },
+   "calamar_cong": {
+    "product": "Calamar troceado EROSKI, bolsa 450 g",
+    "price": 4.99,
+    "pack": 450,
+    "url": "https://supermercado.eroski.es/es/productdetail/26810887-calamar-troceado-eroski-bolsa-450-g/",
+    "seen": "2026-11-07"
+   },
+   "jamon_york": {
+    "product": "Jamón cocido EROSKI, pack 2x200 g",
+    "price": 3.35,
+    "pack": 400,
+    "url": "https://supermercado.eroski.es/es/productdetail/24928145-jamon-cocido-eroski-pack-2x200-g/",
+    "seen": "2026-11-07"
+   },
+   "bacon": {
+    "product": "Bacon ahumado con humo natural EROSKI Maestro, sobre 150 g",
+    "price": 1.55,
+    "pack": 150,
+    "url": "https://supermercado.eroski.es/es/productdetail/16460800-bacon-ahumado-con-humo-natural-eroski-maestro-sobre-150-g/",
+    "seen": "2026-11-07"
+   },
+   "jamon_serrano": {
+    "product": "Jamón serrano lonchas finas EROSKI, bandeja 120 g",
+    "price": 2.19,
+    "pack": 120,
+    "url": "https://supermercado.eroski.es/es/productdetail/9169798-jamon-serrano-lonchas-finas-eroski-bandeja-120-g/",
+    "seen": "2026-11-07"
+   },
+   "chorizo": {
+    "product": "Chorizo EROSKI, bandeja 350 g",
+    "price": 2.19,
+    "pack": 350,
+    "url": "https://supermercado.eroski.es/es/productdetail/16843245-chorizo-eroski-bandeja-350-g/",
+    "seen": "2026-11-07"
+   },
+   "salchichas": {
+    "product": "Salchicha Frankfurt EROSKI, pack 2x200 g",
+    "price": 2.39,
+    "pack": 400,
+    "url": "https://supermercado.eroski.es/es/productdetail/27017987-salchicha-frankfurt-eroski-pack-2x200-g/",
+    "seen": "2026-11-07"
+   },
+   "huevo": {
+    "product": "Huevos frescos M EROSKI, cartón 12 uds",
+    "price": 2.85,
+    "pack": 12,
+    "url": "https://supermercado.eroski.es/es/productdetail/17080953-huevos-frescos-m-eroski-carton-12-uds/",
+    "seen": "2026-11-07"
+   },
+   "leche": {
+    "product": "Leche semidesnatada del PaÍs Vasco EROSKI, brik 1 litro",
+    "price": 1.05,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/18672311-leche-semidesnatada-del-pais-vasco-eroski-brik-1-litro/",
+    "seen": "2026-11-07"
+   },
+   "yogur_griego": {
+    "product": "Yogur griego natural DANONE, pack 4x110 g",
+    "price": 1.49,
+    "pack": 4,
+    "url": "https://supermercado.eroski.es/es/productdetail/25474156-yogur-griego-natural-danone-pack-4x110-g/",
+    "seen": "2026-11-07"
+   },
+   "queso_rallado": {
+    "product": "Queso rallado Emmental EROSKI, bolsa 200 g",
+    "price": 1.65,
+    "pack": 200,
+    "url": "https://supermercado.eroski.es/es/productdetail/17690710-queso-rallado-emmental-eroski-bolsa-200-g/",
+    "seen": "2026-11-07"
+   },
+   "mozzarella": {
+    "product": "Queso rallado Cheddar-Mozzarella ARLA FINELLO, bolsa 175 g",
+    "price": 3.35,
+    "pack": 175,
+    "url": "https://supermercado.eroski.es/es/productdetail/25881285-queso-rallado-cheddar-mozzarella-arla-finello-bolsa-175-g/",
+    "seen": "2026-11-07"
+   },
+   "queso_lonchas": {
+    "product": "Queso Gouda EROSKI, lonchas, bandeja 200 g",
+    "price": 1.3,
+    "pack": 200,
+    "url": "https://supermercado.eroski.es/es/productdetail/11785409-queso-gouda-eroski-lonchas-bandeja-200-g/",
+    "seen": "2026-11-07"
+   },
+   "queso_fresco": {
+    "product": "Queso batido 0% EROSKI, tarrina 500 g",
+    "price": 1.1,
+    "pack": 500,
+    "url": "https://supermercado.eroski.es/es/productdetail/23154651-queso-batido-0-eroski-tarrina-500-g/",
+    "seen": "2026-11-07"
+   },
+   "queso_cabra": {
+    "product": "Bocata de cebolla caramelizada-rulo cabra EROSKI, 2+1 uds, 375 g",
+    "price": 4.15,
+    "pack": 375,
+    "url": "https://supermercado.eroski.es/es/productdetail/27544139-bocata-de-cebolla-caramelizada-rulo-cabra-eroski-21-uds-375-g/",
+    "seen": "2026-11-07"
+   },
+   "nata_cocinar": {
+    "product": "Nata para cocinar ASTURIANA, brik 200 ml",
+    "price": 1.2,
+    "pack": 200,
+    "url": "https://supermercado.eroski.es/es/productdetail/7642168-nata-para-cocinar-asturiana-brik-200-ml/",
+    "seen": "2026-11-07"
+   },
+   "mantequilla": {
+    "product": "Mantequilla extra KAIKU, pastilla 500 g",
+    "price": 5.55,
+    "pack": 500,
+    "url": "https://supermercado.eroski.es/es/productdetail/25590977-mantequilla-extra-kaiku-pastilla-500-g/",
+    "seen": "2026-11-07"
+   },
+   "arroz": {
+    "product": "Arroz redondo LA FALLERA, paquete 1 kg",
+    "price": 1.69,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/302489-arroz-redondo-la-fallera-paquete-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "arroz_basmati": {
+    "product": "Arroz basmati EROSKI, paquete 1 kg",
+    "price": 1.79,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/9160615-arroz-basmati-eroski-paquete-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "pasta": {
+    "product": "Macarrones EROSKI basic, paquete 1 kg",
+    "price": 1.2,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/349183-macarrones-eroski-basic-paquete-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "lentejas": {
+    "product": "Lentejas cocidas EROSKI, frasco 400 g",
+    "price": 0.9,
+    "pack": 400,
+    "url": "https://supermercado.eroski.es/es/productdetail/25948431-lentejas-cocidas-eroski-frasco-400-g/",
+    "seen": "2026-11-07"
+   },
+   "garbanzos": {
+    "product": "Garbanzo cocido EROSKI, frasco 400 g",
+    "price": 0.8,
+    "pack": 400,
+    "url": "https://supermercado.eroski.es/es/productdetail/25948423-garbanzo-cocido-eroski-frasco-400-g/",
+    "seen": "2026-11-07"
+   },
+   "alubias": {
+    "product": "Alubia blanca cocida EROSKI, frasco 400 g",
+    "price": 0.75,
+    "pack": 400,
+    "url": "https://supermercado.eroski.es/es/productdetail/25948407-alubia-blanca-cocida-eroski-frasco-400-g/",
+    "seen": "2026-11-07"
+   },
+   "tomate_triturado": {
+    "product": "Tomate triturado EROSKI basic, lata 800 g",
+    "price": 1,
+    "pack": 800,
+    "url": "https://supermercado.eroski.es/es/productdetail/320267-tomate-triturado-eroski-basic-lata-800-g/",
+    "seen": "2026-11-07"
+   },
+   "tomate_frito": {
+    "product": "Tomate frito EROSKI basic, pack 3x200 g",
+    "price": 0.95,
+    "pack": 600,
+    "url": "https://supermercado.eroski.es/es/productdetail/8642373-tomate-frito-eroski-basic-pack-3x200-g/",
+    "seen": "2026-11-07"
+   },
+   "atun": {
+    "product": "Atún claro en aceite de girasol EROSKI, pack 3x70 g",
+    "price": 2.7,
+    "pack": 210,
+    "url": "https://supermercado.eroski.es/es/productdetail/26994376-atun-claro-en-aceite-de-girasol-eroski-pack-3x70-g/",
+    "seen": "2026-11-07"
+   },
+   "sardinas": {
+    "product": "Sardina en aceite de oliva 3/5 piezas EROSKI, lata 115 g",
+    "price": 1.12,
+    "pack": 115,
+    "url": "https://supermercado.eroski.es/es/productdetail/2294171-sardina-en-aceite-de-oliva-35-piezas-eroski-lata-115-g/",
+    "seen": "2026-11-07"
+   },
+   "piquillos": {
+    "product": "Pimiento de piquillo entero EROSKI, frasco 260 g",
+    "price": 1.37,
+    "pack": 260,
+    "url": "https://supermercado.eroski.es/es/productdetail/16940280-pimiento-de-piquillo-entero-eroski-frasco-260-g/",
+    "seen": "2026-11-07"
+   },
+   "maiz": {
+    "product": "Maíz dulce EROSKI, pack 3x140 g",
+    "price": 1.55,
+    "pack": 420,
+    "url": "https://supermercado.eroski.es/es/productdetail/22578157-maiz-dulce-eroski-pack-3x140-g/",
+    "seen": "2026-11-07"
+   },
+   "caldo_pollo": {
+    "product": "Caldo de pollo EROSKI, brik 1 litro",
+    "price": 0.75,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/27187707-caldo-de-pollo-eroski-brik-1-litro/",
+    "seen": "2026-11-07"
+   },
+   "harina": {
+    "product": "Harina de trigo EROSKI BASIC, paquete 1 kg",
+    "price": 0.72,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/362442-harina-de-trigo-eroski-basic-paquete-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "cuscus": {
+    "product": "Cous cous LA MOLISANA, paquete 1 kg",
+    "price": 3.55,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/19539550-cous-cous-la-molisana-paquete-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "pan_rallado": {
+    "product": "Pan rallado crujiente EROSKI, paquete 400 g",
+    "price": 1.13,
+    "pack": 400,
+    "url": "https://supermercado.eroski.es/es/productdetail/15792559-pan-rallado-crujiente-eroski-paquete-400-g/",
+    "seen": "2026-11-07"
+   },
+   "avena": {
+    "product": "Copos de avena integrales suaves EROSKI, paquete 500 g",
+    "price": 0.77,
+    "pack": 500,
+    "url": "https://supermercado.eroski.es/es/productdetail/26747618-copos-de-avena-integrales-suaves-eroski-paquete-500-g/",
+    "seen": "2026-11-07"
+   },
+   "tortilla_trigo": {
+    "product": "Tortillas de trigo EROSKI, paquete 320 g",
+    "price": 1.02,
+    "pack": 8,
+    "url": "https://supermercado.eroski.es/es/productdetail/24552002-tortillas-de-trigo-eroski-paquete-320-g/",
+    "seen": "2026-11-07"
+   },
+   "masa_pizza": {
+    "product": "Masa de pizza EROSKI, paquete 260 g",
+    "price": 0.98,
+    "pack": 1,
+    "url": "https://supermercado.eroski.es/es/productdetail/15897861-masa-de-pizza-eroski-paquete-260-g/",
+    "seen": "2026-11-07"
+   },
+   "pan_molde": {
+    "product": "Pan de molde 100% integral con corteza EROSKI, paquete 820 g",
+    "price": 1.15,
+    "pack": 820,
+    "url": "https://supermercado.eroski.es/es/productdetail/24007304-pan-de-molde-100-integral-con-corteza-eroski-paquete-820-g/",
+    "seen": "2026-11-07"
+   },
+   "patatas_cong": {
+    "product": "Patata prefrita EROSKI BASIC, bolsa 1 kg",
+    "price": 1.85,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/211326-patata-prefrita-eroski-basic-bolsa-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "guisantes_cong": {
+    "product": "Guisante EROSKI, bolsa 1 kg",
+    "price": 1.55,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/19519073-guisante-eroski-bolsa-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "judias_verdes_cong": {
+    "product": "Judías verdes planas EROSKI, bolsa 1 kg",
+    "price": 1.3,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/19519081-judias-verdes-planas-eroski-bolsa-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "aceite_oliva": {
+    "product": "Aceite de oliva 1º OLILAN, botella 1 litro",
+    "price": 3.8,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/355891-aceite-de-oliva-1-olilan-botella-1-litro/",
+    "seen": "2026-11-07"
+   },
+   "vinagre": {
+    "product": "Vinagre de Jerez EROSKI, botella 50 cl",
+    "price": 1.53,
+    "pack": 500,
+    "url": "https://supermercado.eroski.es/es/productdetail/16829236-vinagre-de-jerez-eroski-botella-50-cl/",
+    "seen": "2026-11-07"
+   },
+   "sal": {
+    "product": "Sal marina fina EROSKI BASIC, paquete 1 kg",
+    "price": 0.4,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/917372-sal-marina-fina-eroski-basic-paquete-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "pimienta": {
+    "product": "Pimienta negra molida EROSKI, frasco 65 g",
+    "price": 1.2,
+    "pack": 65,
+    "url": "https://supermercado.eroski.es/es/productdetail/27221464-pimienta-negra-molida-eroski-frasco-65-g/",
+    "seen": "2026-11-07"
+   },
+   "pimenton": {
+    "product": "Pimentón dulce EROSKI, frasco 58 g",
+    "price": 1,
+    "pack": 58,
+    "url": "https://supermercado.eroski.es/es/productdetail/27221472-pimenton-dulce-eroski-frasco-58-g/",
+    "seen": "2026-11-07"
+   },
+   "oregano": {
+    "product": "Orégano EROSKI, frasco 18 g",
+    "price": 0.69,
+    "pack": 18,
+    "url": "https://supermercado.eroski.es/es/productdetail/27221423-oregano-eroski-frasco-18-g/",
+    "seen": "2026-11-07"
+   },
+   "curry": {
+    "product": "Curry EROSKI, frasco 55 g",
+    "price": 1.05,
+    "pack": 55,
+    "url": "https://supermercado.eroski.es/es/productdetail/27221530-curry-eroski-frasco-55-g/",
+    "seen": "2026-11-07"
+   },
+   "salsa_soja": {
+    "product": "Salsa de soja TIGER KHAN, frasco 300 ml",
+    "price": 3.35,
+    "pack": 300,
+    "url": "https://supermercado.eroski.es/es/productdetail/16141921-salsa-de-soja-tiger-khan-frasco-300-ml/",
+    "seen": "2026-11-07"
+   },
+   "mayonesa": {
+    "product": "Mayonesa EROSKI, frasco 450 ml",
+    "price": 1.2,
+    "pack": 450,
+    "url": "https://supermercado.eroski.es/es/productdetail/26144121-mayonesa-eroski-frasco-450-ml/",
+    "seen": "2026-11-07"
+   },
+   "ketchup": {
+    "product": "Ketchup EROSKI, bote 560 g",
+    "price": 0.98,
+    "pack": 560,
+    "url": "https://supermercado.eroski.es/es/productdetail/26505891-ketchup-eroski-bote-560-g/",
+    "seen": "2026-11-07"
+   },
+   "leche_coco": {
+    "product": "Leche de coco baja en grasa TIGER KHAN, lata 400 ml",
+    "price": 2.75,
+    "pack": 400,
+    "url": "https://supermercado.eroski.es/es/productdetail/24313124-leche-de-coco-baja-en-grasa-tiger-khan-lata-400-ml/",
+    "seen": "2026-11-07"
+   },
+   "miel": {
+    "product": "Miel de panal cero goteo EROSKI, dosificador 500 g",
+    "price": 3.2,
+    "pack": 500,
+    "url": "https://supermercado.eroski.es/es/productdetail/6300669-miel-de-panal-cero-goteo-eroski-dosificador-500-g/",
+    "seen": "2026-11-07"
+   },
+   "claras_huevo": {
+    "product": "Clara de huevo pasteurizada HOBEA, botella 1 litro",
+    "price": 4.35,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/24114365-clara-de-huevo-pasteurizada-hobea-botella-1-litro/",
+    "seen": "2026-11-07"
+   },
+   "tofu": {
+    "product": "Tofú fresco EROSKI VEGGIE, paquete 250 g",
+    "price": 2.29,
+    "pack": 250,
+    "url": "https://supermercado.eroski.es/es/productdetail/24563223-tofu-fresco-eroski-veggie-paquete-250-g/",
+    "seen": "2026-11-07"
+   },
+   "requeson": {
+    "product": "Requesón EROSKI, tarrina 200 g",
+    "price": 1,
+    "pack": 200,
+    "url": "https://supermercado.eroski.es/es/productdetail/26887331-requeson-eroski-tarrina-200-g/",
+    "seen": "2026-11-07"
+   },
+   "kefir": {
+    "product": "Kéfir natural cuchara EROSKI, tarrina 500 g",
+    "price": 1.1,
+    "pack": 500,
+    "url": "https://supermercado.eroski.es/es/productdetail/23633118-kefir-natural-cuchara-eroski-tarrina-500-g/",
+    "seen": "2026-11-07"
+   },
+   "bebida_soja": {
+    "product": "Bebida de soja con calcio EROSKI, brik 1 litro",
+    "price": 0.65,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/24637332-bebida-de-soja-con-calcio-eroski-brik-1-litro/",
+    "seen": "2026-11-07"
+   },
+   "ternera_filete": {
+    "product": "Filete Ternera empanar E.O. E.Natur, al corte, compra mínima 500 g",
+    "price": 10.23,
+    "pack": 500,
+    "url": "https://supermercado.eroski.es/es/productdetail/17624073-filete-ternera-empanar-eo-enatur-al-corte-compra-minima-500-g/",
+    "seen": "2026-11-07"
+   },
+   "fiambre_pavo": {
+    "product": "Pechuga de pavo lonchas finas MONELLS, pack 2x180 g",
+    "price": 4.09,
+    "pack": 360,
+    "url": "https://supermercado.eroski.es/es/productdetail/24238214-pechuga-de-pavo-lonchas-finas-monells-pack-2x180-g/",
+    "seen": "2026-11-07"
+   },
+   "atun_natural": {
+    "product": "Atún claro al natural EROSKI, pack 3x56 g",
+    "price": 2.45,
+    "pack": 168,
+    "url": "https://supermercado.eroski.es/es/productdetail/900790-atun-claro-al-natural-eroski-pack-3x56-g/",
+    "seen": "2026-11-07"
+   },
+   "quinoa": {
+    "product": "Quinoa integral BRILLANTE, pack 2x125 g",
+    "price": 1.75,
+    "pack": 250,
+    "url": "https://supermercado.eroski.es/es/productdetail/19322866-quinoa-integral-brillante-pack-2x125-g/",
+    "seen": "2026-11-07"
+   },
+   "arroz_integral": {
+    "product": "Arroz integral EROSKI, paquete 1 kg",
+    "price": 1.65,
+    "pack": 1000,
+    "url": "https://supermercado.eroski.es/es/productdetail/22383343-arroz-integral-eroski-paquete-1-kg/",
+    "seen": "2026-11-07"
+   },
+   "pasta_integral": {
+    "product": "Hélices integrales GALLO, paquete 500 g",
+    "price": 2.09,
+    "pack": 500,
+    "url": "https://supermercado.eroski.es/es/productdetail/23764020-helices-integrales-gallo-paquete-500-g/",
+    "seen": "2026-11-07"
+   },
+   "nueces": {
+    "product": "Nuez mondada EROSKI, bolsa 200 g",
+    "price": 2.4,
+    "pack": 200,
+    "url": "https://supermercado.eroski.es/es/productdetail/27261528-nuez-mondada-eroski-bolsa-200-g/",
+    "seen": "2026-11-07"
+   },
+   "crema_cacahuete": {
+    "product": "Crema de cacahuete EROSKI, bote 400 g",
+    "price": 2.2,
+    "pack": 400,
+    "url": "https://supermercado.eroski.es/es/productdetail/24978785-crema-de-cacahuete-eroski-bote-400-g/",
+    "seen": "2026-11-07"
+   },
+   "sesamo": {
+    "product": "Sésamo crudo VERITAS, bolsa 250 g",
+    "price": 2.89,
+    "pack": 250,
+    "url": "https://supermercado.eroski.es/es/productdetail/16282865-sesamo-crudo-veritas-bolsa-250-g/",
+    "seen": "2026-11-07"
+   },
+   "arandanos": {
+    "product": "Arándano, bandeja 250 g",
+    "price": 3.72,
+    "pack": 250,
+    "url": "https://supermercado.eroski.es/es/productdetail/21070578-arandano-bandeja-250-g/",
+    "seen": "2026-11-07"
+   },
+   "rucula": {
+    "product": "Rúcula EROSKI, bolsa 100 g",
+    "price": 1.7,
+    "pack": 100,
+    "url": "https://supermercado.eroski.es/es/productdetail/11013653-rucula-eroski-bolsa-100-g/",
+    "seen": "2026-11-07"
+   },
+   "mango": {
+    "product": "Mango EROSKI, 2 uds, bandeja 650 g",
+    "price": 2.49,
+    "pack": 2,
+    "url": "https://supermercado.eroski.es/es/productdetail/12729885-mango-eroski-2-uds-bandeja-650-g/",
+    "seen": "2026-11-07"
+   },
+   "pina": {
+    "product": "Piña maduración natural partida, pieza al peso aprox. 900 g",
+    "price": 2.6,
+    "pack": 1,
+    "url": "https://supermercado.eroski.es/es/productdetail/27024652-pina-maduracion-natural-partida-pieza-al-peso-aprox-900-g/",
+    "seen": "2026-11-07"
+   },
+   "canela": {
+    "product": "Canela molida EROSKI, frasco 45 g",
+    "price": 0.85,
+    "pack": 45,
+    "url": "https://supermercado.eroski.es/es/productdetail/27221456-canela-molida-eroski-frasco-45-g/",
+    "seen": "2026-11-07"
+   }
+  },
+  "alcampo": {
+   "cebolla": {
+    "product": "Cebolla malla de 2 kg.",
+    "price": 1.99,
+    "pack": 2000,
+    "url": "https://www.compraonline.alcampo.es/products/74004",
+    "seen": "2026-11-07"
+   },
+   "pimiento_rojo": {
+    "product": "Pimientos rojos, malla 750 g.",
+    "price": 3.79,
+    "pack": 750,
+    "url": "https://www.compraonline.alcampo.es/products/568178",
+    "seen": "2026-11-07"
+   },
+   "pimiento_verde": {
+    "product": "Pimiento Italiano bolsa de 500 g.",
+    "price": 1.75,
+    "pack": 500,
+    "url": "https://www.compraonline.alcampo.es/products/59357",
+    "seen": "2026-11-07"
+   },
+   "ajo": {
+    "product": "Ajos 250 g",
+    "price": 1.74,
+    "pack": 250,
+    "url": "https://www.compraonline.alcampo.es/products/57276",
+    "seen": "2026-10-30"
+   },
+   "champinon": {
+    "product": "PRODUCTO ALCAMPO Champiñón laminado 230 gr.",
+    "price": 1,
+    "pack": 230,
+    "url": "https://www.compraonline.alcampo.es/products/497354",
+    "seen": "2026-10-30"
+   },
+   "berenjena": {
+    "product": "Berenjenas malla de 750 g.",
+    "price": 1.89,
+    "pack": 750,
+    "url": "https://www.compraonline.alcampo.es/products/57614",
+    "seen": "2026-10-30"
+   },
+   "pepino": {
+    "product": "Pepino Holandés 400 g.",
+    "price": 1.59,
+    "pack": 400,
+    "url": "https://www.compraonline.alcampo.es/products/58491",
+    "seen": "2026-10-30"
+   },
+   "coliflor": {
+    "product": "Coliflor 1 ud.",
+    "price": 2.25,
+    "pack": 800,
+    "url": "https://www.compraonline.alcampo.es/products/55822",
+    "seen": "2026-10-30"
+   },
+   "puerro": {
+    "product": "Puerros bandeja de 420 g.",
+    "price": 2.99,
+    "pack": 420,
+    "url": "https://www.compraonline.alcampo.es/products/57265",
+    "seen": "2026-10-30"
+   },
+   "esparragos": {
+    "product": "AUCHAN Revuelto de ajetes, espárragos trigueros y gambas 400 g. Producto Alcampo",
+    "price": 2.58,
+    "pack": 400,
+    "url": "https://www.compraonline.alcampo.es/products/69586",
+    "seen": "2026-10-30"
+   },
+   "setas": {
+    "product": "Setas barqueta 400 g.",
+    "price": 2.98,
+    "pack": 400,
+    "url": "https://www.compraonline.alcampo.es/products/53343",
+    "seen": "2026-10-30"
+   },
+   "bacalao_cong": {
+    "product": "AUCHAN Bacalao desmigado desalado 250 g. Producto Alcampo",
+    "price": 6.7,
+    "pack": 250,
+    "url": "https://www.compraonline.alcampo.es/products/71980",
+    "seen": "2026-10-30"
+   }
+  }
+ },
+ "blocked": [
+  "lidl",
+  "alcampo"
+ ],
+ "reference": {
+  "cebolla": 0.001241,
+  "ajo": 0.006675,
+  "tomate": 0.002071,
+  "pimiento_rojo": 0.003411,
+  "pimiento_verde": 0.002681,
+  "calabacin": 0.001507,
+  "zanahoria": 0.001102,
+  "patata": 0.001059,
+  "lechuga": 0.003094,
+  "espinacas": 0.003981,
+  "brocoli": 0.002079,
+  "champinon": 0.004791,
+  "limon": 0.274407,
+  "aguacate": 0.961507,
+  "berenjena": 0.00222,
+  "pepino": 0.002814,
+  "coliflor": 0.002125,
+  "puerro": 0.00545,
+  "esparragos": 0.010648,
+  "calabaza": 0.003468,
+  "boniato": 0.002343,
+  "setas": 0.00612,
+  "platano": 0.322444,
+  "pechuga_pollo": 0.007418,
+  "muslo_pollo": 0.00357,
+  "pechuga_pavo": 0.007906,
+  "carne_picada": 0.007345,
+  "lomo_cerdo": 0.005193,
+  "salmon": 0.022667,
+  "merluza_cong": 0.009757,
+  "gambas_cong": 0.014626,
+  "bacalao_cong": 0.02519,
+  "mejillon_cong": 0.007643,
+  "calamar_cong": 0.012026,
+  "jamon_york": 0.00742,
+  "bacon": 0.008144,
+  "jamon_serrano": 0.01248,
+  "chorizo": 0.007003,
+  "salchichas": 0.00443,
+  "hamburguesa": 0.936508,
+  "huevo": 0.218184,
+  "leche": 0.00086,
+  "yogur_griego": 0.279902,
+  "queso_rallado": 0.005912,
+  "mozzarella": 0.01228,
+  "queso_lonchas": 0.005971,
+  "queso_fresco": 0.002021,
+  "queso_cabra": 0.011206,
+  "nata_cocinar": 0.005797,
+  "mantequilla": 0.009823,
+  "arroz": 0.001295,
+  "arroz_basmati": 0.001792,
+  "pasta": 0.001102,
+  "lentejas": 0.001747,
+  "garbanzos": 0.001553,
+  "alubias": 0.001456,
+  "tomate_triturado": 0.001148,
+  "tomate_frito": 0.001419,
+  "atun": 0.011046,
+  "sardinas": 0.008888,
+  "piquillos": 0.004362,
+  "maiz": 0.003273,
+  "caldo_pollo": 0.000689,
+  "harina": 0.000661,
+  "cuscus": 0.002499,
+  "pan_rallado": 0.00179,
+  "avena": 0.001363,
+  "tortilla_trigo": 0.111178,
+  "masa_pizza": 0.909819,
+  "pan_hamburguesa": 0.22619,
+  "pan_molde": 0.001288,
+  "patatas_cong": 0.001533,
+  "guisantes_cong": 0.001424,
+  "judias_verdes_cong": 0.001194,
+  "salteado_verduras_cong": 0.001667,
+  "aceite_oliva": 0.003491,
+  "vinagre": 0.001664,
+  "sal": 0.000367,
+  "pimienta": 0.017012,
+  "pimenton": 0.015883,
+  "oregano": 0.036009,
+  "comino": 0.018883,
+  "curry": 0.017637,
+  "salsa_soja": 0.007227,
+  "mayonesa": 0.002323,
+  "ketchup": 0.001608,
+  "leche_coco": 0.006084,
+  "miel": 0.005664,
+  "claras_huevo": 0.003234,
+  "tofu": 0.006136,
+  "requeson": 0.004593,
+  "kefir": 0.001947,
+  "bebida_soja": 0.000597,
+  "ternera_filete": 0.018106,
+  "fiambre_pavo": 0.009729,
+  "atun_natural": 0.010163,
+  "quinoa": 0.005621,
+  "arroz_integral": 0.001516,
+  "pasta_integral": 0.002992,
+  "almendras": 0.01746,
+  "nueces": 0.010619,
+  "crema_cacahuete": 0.004867,
+  "sesamo": 0.01023,
+  "arandanos": 0.013674,
+  "rucula": 0.015617,
+  "mango": 0.957047,
+  "pina": 2.017109,
+  "canela": 0.017515
+ },
+ "missing": {
+  "lidl": [
+   "cebolla",
+   "ajo",
+   "tomate",
+   "pimiento_rojo",
+   "pimiento_verde",
+   "calabacin",
+   "zanahoria",
+   "patata",
+   "lechuga",
+   "espinacas",
+   "brocoli",
+   "champinon",
+   "limon",
+   "aguacate",
+   "berenjena",
+   "pepino",
+   "coliflor",
+   "puerro",
+   "esparragos",
+   "calabaza",
+   "boniato",
+   "setas",
+   "platano",
+   "pechuga_pollo",
+   "muslo_pollo",
+   "pechuga_pavo",
+   "carne_picada",
+   "lomo_cerdo",
+   "salmon",
+   "merluza_cong",
+   "gambas_cong",
+   "bacalao_cong",
+   "mejillon_cong",
+   "calamar_cong",
+   "jamon_york",
+   "bacon",
+   "jamon_serrano",
+   "chorizo",
+   "salchichas",
+   "hamburguesa",
+   "huevo",
+   "leche",
+   "yogur_griego",
+   "queso_rallado",
+   "mozzarella",
+   "queso_lonchas",
+   "queso_fresco",
+   "queso_cabra",
+   "nata_cocinar",
+   "mantequilla",
+   "arroz",
+   "arroz_basmati",
+   "pasta",
+   "lentejas",
+   "garbanzos",
+   "alubias",
+   "tomate_triturado",
+   "tomate_frito",
+   "atun",
+   "sardinas",
+   "piquillos",
+   "maiz",
+   "caldo_pollo",
+   "harina",
+   "cuscus",
+   "pan_rallado",
+   "avena",
+   "tortilla_trigo",
+   "masa_pizza",
+   "pan_hamburguesa",
+   "pan_molde",
+   "patatas_cong",
+   "guisantes_cong",
+   "judias_verdes_cong",
+   "salteado_verduras_cong",
+   "aceite_oliva",
+   "vinagre",
+   "sal",
+   "pimienta",
+   "pimenton",
+   "oregano",
+   "comino",
+   "curry",
+   "salsa_soja",
+   "mayonesa",
+   "ketchup",
+   "leche_coco",
+   "miel",
+   "claras_huevo",
+   "tofu",
+   "requeson",
+   "kefir",
+   "bebida_soja",
+   "ternera_filete",
+   "fiambre_pavo",
+   "atun_natural",
+   "quinoa",
+   "arroz_integral",
+   "pasta_integral",
+   "almendras",
+   "nueces",
+   "crema_cacahuete",
+   "sesamo",
+   "arandanos",
+   "rucula",
+   "mango",
+   "pina",
+   "canela"
+  ],
+  "mercadona": [
+   "ajo",
+   "gambas_cong",
+   "mantequilla",
+   "avena",
+   "leche_coco",
+   "miel",
+   "kefir",
+   "ternera_filete",
+   "nueces",
+   "crema_cacahuete",
+   "sesamo"
+  ],
+  "alcampo": [
+   "ajo",
+   "tomate",
+   "calabacin",
+   "zanahoria",
+   "patata",
+   "lechuga",
+   "espinacas",
+   "brocoli",
+   "champinon",
+   "limon",
+   "aguacate",
+   "berenjena",
+   "pepino",
+   "coliflor",
+   "puerro",
+   "esparragos",
+   "calabaza",
+   "boniato",
+   "setas",
+   "platano",
+   "pechuga_pollo",
+   "muslo_pollo",
+   "pechuga_pavo",
+   "carne_picada",
+   "lomo_cerdo",
+   "salmon",
+   "merluza_cong",
+   "gambas_cong",
+   "bacalao_cong",
+   "mejillon_cong",
+   "calamar_cong",
+   "jamon_york",
+   "bacon",
+   "jamon_serrano",
+   "chorizo",
+   "salchichas",
+   "hamburguesa",
+   "huevo",
+   "leche",
+   "yogur_griego",
+   "queso_rallado",
+   "mozzarella",
+   "queso_lonchas",
+   "queso_fresco",
+   "queso_cabra",
+   "nata_cocinar",
+   "mantequilla",
+   "arroz",
+   "arroz_basmati",
+   "pasta",
+   "lentejas",
+   "garbanzos",
+   "alubias",
+   "tomate_triturado",
+   "tomate_frito",
+   "atun",
+   "sardinas",
+   "piquillos",
+   "maiz",
+   "caldo_pollo",
+   "harina",
+   "cuscus",
+   "pan_rallado",
+   "avena",
+   "tortilla_trigo",
+   "masa_pizza",
+   "pan_hamburguesa",
+   "pan_molde",
+   "patatas_cong",
+   "guisantes_cong",
+   "judias_verdes_cong",
+   "salteado_verduras_cong",
+   "aceite_oliva",
+   "vinagre",
+   "sal",
+   "pimienta",
+   "pimenton",
+   "oregano",
+   "comino",
+   "curry",
+   "salsa_soja",
+   "mayonesa",
+   "ketchup",
+   "leche_coco",
+   "miel",
+   "claras_huevo",
+   "tofu",
+   "requeson",
+   "kefir",
+   "bebida_soja",
+   "ternera_filete",
+   "fiambre_pavo",
+   "atun_natural",
+   "quinoa",
+   "arroz_integral",
+   "pasta_integral",
+   "almendras",
+   "nueces",
+   "crema_cacahuete",
+   "sesamo",
+   "arandanos",
+   "rucula",
+   "mango",
+   "pina",
+   "canela"
+  ],
+  "eroski": [
+   "pepino",
+   "salmon",
+   "hamburguesa",
+   "pan_hamburguesa",
+   "salteado_verduras_cong",
+   "comino",
+   "almendras"
+  ]
+ }
+}

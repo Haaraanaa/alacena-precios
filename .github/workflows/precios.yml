@@ -1,0 +1,32 @@
+# Cada lunes a las 5:00 (hora de España) busca los precios en las webs de los supermercados
+# y guarda prices.json en este repositorio. La app Alacena lo descarga desde aquí.
+name: Precios semanales
+
+on:
+  schedule:
+    - cron: '0 3 * * 1'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  precios:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Buscar precios
+        run: node precios.mjs
+        env:
+          PRECIOS_OUT: prices.json
+      - name: Guardar si han cambiado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add prices.json
+          git diff --cached --quiet || git commit -m "precios: $(date +%F)"
+          git push
